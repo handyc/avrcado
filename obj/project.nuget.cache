@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7OLGn1hPg4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micro\\avrcado\\avrcado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micro\\.nuget\\packages\\stereokit\\0.3.9\\stereokit.0.3.9.nupkg.sha512",
+    "C:\\Users\\micro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
