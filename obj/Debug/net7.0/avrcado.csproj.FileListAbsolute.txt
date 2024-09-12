@@ -30,3 +30,11 @@ C:\Users\micro\avrcado\obj\Debug\net7.0\refint\avrcado.dll
 C:\Users\micro\avrcado\obj\Debug\net7.0\avrcado.pdb
 C:\Users\micro\avrcado\obj\Debug\net7.0\avrcado.genruntimeconfig.cache
 C:\Users\micro\avrcado\obj\Debug\net7.0\ref\avrcado.dll
+C:\Users\micro\avrcado\obj\Debug\net7.0\avrcado.sourcelink.json
+C:\Users\micro\avrcado\bin\Debug\net7.0\Assets\snowy_forest_4k.hdr
+C:\Users\micro\avrcado\bin\Debug\net7.0\Assets\4K HDR Bluebell Woods - English Forest - Birds Singing - No Loop - Relaxing Nature Video & Sounds.mp3
+C:\Users\micro\avrcado\bin\Debug\net7.0\Assets\Avocado.gltf
+C:\Users\micro\avrcado\bin\Debug\net7.0\Assets\Avocado.bin
+C:\Users\micro\avrcado\bin\Debug\net7.0\Assets\Avocado_baseColor.png
+C:\Users\micro\avrcado\bin\Debug\net7.0\Assets\Avocado_normal.png
+C:\Users\micro\avrcado\bin\Debug\net7.0\Assets\Avocado_roughnessMetallic.png
